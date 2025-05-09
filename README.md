@@ -1,5 +1,8 @@
 ## Comparative Analysis of Machine Learning Models for Delivery Time Prediction 🚀
 
+![Screenshot 2025-05-09 at 2 04 58 PM](https://github.com/user-attachments/assets/6f6861d9-9136-4af6-a887-9710f0afb805)
+
+
 ### Project Overview
 This project aims to **predict food delivery times accurately** using machine learning models. The primary goal is to optimize delivery operations by analyzing key factors such as **distance, traffic levels, weather conditions, and vehicle types**. Through data-driven decision-making, the objective is to enhance **customer satisfaction and operational efficiency** in real-world logistics scenarios.
 
@@ -31,20 +34,26 @@ The dataset, sourced from *Kaggle*, includes:
 - Integration with **real-time delivery tracking** using *Flask* or *AWS Lambda*.
 - Testing **Ensemble Models** like *Random Forest* and *XGBoost* to further improve accuracy.
 
-### Installation & Usage
+### Installation & Usage (Main Branch)
 1. Clone the repository:
    ```bash
    git clone https://github.com/hemanth379/Comparative_Analysis_of_ML_Models_for_Delivery_Time_Prediction.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd delivery-time-prediction
+   cd Comparative_Analysis_of_ML_Models_for_Delivery_Time_Prediction
    ```
 3. Install the dependencies:
    ```bash
-   pip install -r requirements.txt
+   pip install pandas numpy scikit-learn matplotlib seaborn
    ```
-4. Run the Jupyter notebook:
+4. ### File Structure
+- **Group6_Final_Report.pdf** → Final report detailing analysis and findings.
+- **Food_Time_Data_Set.csv** → Dataset used for the project.
+- **Group6_Final_code.ipynb** → Jupyter notebook with code and analysis.
+- **Group6_Final_PPT.pdf** → Project presentation.
+
+### Run the Jupyter notebook:
    ```bash
    jupyter notebook Group6_Final_code.ipynb
    ```
