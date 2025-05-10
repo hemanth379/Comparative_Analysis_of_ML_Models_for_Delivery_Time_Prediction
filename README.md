@@ -1,4 +1,4 @@
-## Comparative Analysis of Machine Learning Models for Delivery Time Prediction 🚀
+## Comparative Analysis of Machine Learning Models for Delivery Time Prediction 🚚
 
 ![Screenshot 2025-05-09 at 2 04 58 PM](https://github.com/user-attachments/assets/6f6861d9-9136-4af6-a887-9710f0afb805)
 
